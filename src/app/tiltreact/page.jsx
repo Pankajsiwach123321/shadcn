@@ -23,7 +23,7 @@ const defaultOptions = {
 const TiltReact = () => {
   return (
     <section className="flex justify-center items-center min-h-screen">
-      <div className="w-[400px] mx-auto">
+      <div className="w-[400px]  flex justify-center mx-auto">
         <Tilt options={defaultOptions} style={{ height: 250, width: 250 }}>
           <Card>
             <CardHeader>
