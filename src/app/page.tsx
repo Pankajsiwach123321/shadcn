@@ -24,6 +24,16 @@ export default function Home() {
                 OTP Verification
               </a>
             </Button>
+            <Button>
+              <a href="/lottie" className="w-full">
+                Lottie
+              </a>
+            </Button>
+            <Button>
+              <a href="/tiltreact" className="w-full">
+                Tilt react
+              </a>
+            </Button>
           </li>
         </ul>
       </div>
